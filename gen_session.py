@@ -1,4 +1,5 @@
-from pyrogram import Client as c
+from pyrogram import Client as
+from Telethon import Client as 
 
 API_ID = input("\nEnter Your API_ID:\n > ")
 API_HASH = input("\nEnter Your API_HASH:\n > ")
